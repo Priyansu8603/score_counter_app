@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ScoreApp" parent="Theme.AppCompat.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#F1AF4F</item>
+        <item name="colorPrimaryDark">#DFA857</item>
+        <item name="colorAccent">#C38B38</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
